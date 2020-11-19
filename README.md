@@ -1,6 +1,6 @@
 # I'm NIkhil Bajpai. Hello There!!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a strong data structure and algorithms and data base management system knowledge .I've created small scale utilities using python's  library  .
 
