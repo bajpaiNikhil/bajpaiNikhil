@@ -5,7 +5,7 @@
 
 I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a strong data structure and algorithms and data base management system knowledge .I've created small scale utilities using python's  library  .
 
-[![](https://img.shields.io/badge/LinkedIn-Nikhil Bajpai-blue)](https://www.linkedin.com/in/nikhil-bajpai)
+[![](https://img.shields.io/badge/LinkedIn-Nikhil-Bajpai-blue)](https://www.linkedin.com/in/nikhil-bajpai)
 [![](https://img.shields.io/badge/Gmail-nikhil.cse16@gmail.com-red)](mailto:nikhil.cse16@gmail.com)
 [![](https://img.shields.io/badge/Telegram-Nikhil-blue)](https://t.me/Nikhil)
 
