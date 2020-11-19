@@ -1,4 +1,4 @@
-# Nikhil Bajpai
+<h2> Hi, Nikhil Bajpai! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a strong data structure and algorithms and data base management system knowledge .I've created small scale utilities using python's  library  .
 
