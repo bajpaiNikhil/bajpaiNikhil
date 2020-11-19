@@ -31,7 +31,7 @@ I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a stron
     <tr valign="top">
       <td width="25%" align="center">
         <span>Pycharm</span><br><br><br>
-        <img height="64px" src="https://https://cdn.svgporn.com/logos/pycharm.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
