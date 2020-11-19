@@ -42,6 +42,16 @@ I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a stron
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td widht ="25%" align="center">
+        <span>Flask</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td widht ="25%" align="center">
+        <span>Django</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+      
   </tbody>
 </table>
 
