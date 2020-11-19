@@ -9,7 +9,7 @@ I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a stron
 [![](https://img.shields.io/badge/Telegram-Nikhil-blue)](https://t.me/Nikhil)
 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+### Tools I work upon : 🛠
 
 <table>
   <tbody>
