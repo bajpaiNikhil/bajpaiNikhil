@@ -1,8 +1,8 @@
-# Hi there 👋, Nikhil Bajpai
+# Nikhil Bajpai
 
 I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a strong data structure and algorithms and data base management system knowledge .I've created small scale utilities using python's  library  .
 
-##Skills and Expriences
+## Skills and Expriences
 * Languages 🧾-C,Python,Java
 * FraneWorks ⚛-Flask, Django
 
