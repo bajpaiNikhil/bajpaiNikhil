@@ -1,6 +1,8 @@
-<h2> Hi, Nikhil Bajpai! </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h2> Hi, Nikhil Bajpai! </h2>
+
 I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a strong data structure and algorithms and data base management system knowledge .I've created small scale utilities using python's  library  .
 
 
