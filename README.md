@@ -1,6 +1,6 @@
 # I'm NIkhil Bajpai. Hello There!!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
 
 - :telescope: I've done BTech in CSE 💻 and currently preparing for job interviews;
 - :hourglass_flowing_sand: Learning javascript and react;
@@ -13,7 +13,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-nikhilbajpai-blue)](https://www.linkedin.com/in/nikhil-bajpai//)
 [![](https://img.shields.io/badge/Gmail-nikhil.cse16@gmail.com-red)](mailto:nikhil.cse16@gmail.com)
-[![](https://img.shields.io/badge/Telegram-Nikhil-blue)](https://t.me/Nikhil)<br>
+[![](https://img.shields.io/badge/Telegram-Nikhil-blue)](https://t.me/Nikhil)<br><br><br>
 
 
 ## Tools I work upon : 🛠
