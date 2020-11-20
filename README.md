@@ -2,13 +2,12 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-- :telescope: I'm currently studying BTech in CSE 💻;
-- :hourglass_flowing_sand: Learning ML and DL;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
+- :telescope: I've done BTech in CSE 💻 and currently preparing for job interviews;
+- :hourglass_flowing_sand: Learning javascript and react;
+- 💬 Lets work together to create a better world :-) ;
+- :man_technologist: B.Tech(Computer Science and Engineering), BBDNITM; 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-- 📫 How to reach me: ankitwarbheofficial@gmail.com;
-- 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
+- 📫 How to reach me: nikhil.cse16@gmail.com;
 
 
 
@@ -17,8 +16,7 @@
 [![](https://img.shields.io/badge/Telegram-Nikhil-blue)](https://t.me/Nikhil)
 
 
-### Tools I work upon : 🛠
-
+## Tools I work upon : 🛠
 <table>
   <tbody>
     <tr valign="top">
