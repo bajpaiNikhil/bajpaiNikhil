@@ -13,7 +13,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-nikhilbajpai-blue)](https://www.linkedin.com/in/nikhil-bajpai//)
 [![](https://img.shields.io/badge/Gmail-nikhil.cse16@gmail.com-red)](mailto:nikhil.cse16@gmail.com)
-[![](https://img.shields.io/badge/Telegram-Nikhil-blue)](https://t.me/Nikhil)
+[![](https://img.shields.io/badge/Telegram-Nikhil-blue)](https://t.me/Nikhil)<br>
 
 
 ## Tools I work upon : 🛠
