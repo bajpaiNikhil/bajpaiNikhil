@@ -6,7 +6,7 @@
 - :hourglass_flowing_sand: Learning javascript and react;
 - 💬 Lets work together to create a better world :-) ;
 - :man_technologist: B.Tech(Computer Science and Engineering), BBDNITM; 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
+- :dart: Life Hack: RUN  🏃‍♂️ even when you can't CRAWL ;
 - 📫 How to reach me: nikhil.cse16@gmail.com;
 
 
