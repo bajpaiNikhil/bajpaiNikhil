@@ -1,5 +1,7 @@
 # I'm NIkhil Bajpai. Hello There!!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<img align="centre" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 - :telescope: I'm currently studying BTech in CSE 💻;
 - :hourglass_flowing_sand: Learning ML and DL;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
@@ -8,7 +10,7 @@
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
 - 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
 
-<img align="centre" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 [![](https://img.shields.io/badge/LinkedIn-nikhilbajpai-blue)](https://www.linkedin.com/in/nikhil-bajpai//)
 [![](https://img.shields.io/badge/Gmail-nikhil.cse16@gmail.com-red)](mailto:nikhil.cse16@gmail.com)
