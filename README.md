@@ -1,6 +1,12 @@
 # I'm NIkhil Bajpai. Hello There!!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a strong data structure and algorithms and data base management system knowledge .I've created small scale utilities using python's  library  .
+- :telescope: I'm currently studying BTech in CSE 💻;
+- :hourglass_flowing_sand: Learning ML and DL;
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
+- 📫 How to reach me: ankitwarbheofficial@gmail.com;
+- 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
 
 <img align="centre" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
