@@ -1,8 +1,8 @@
 # I'm NIkhil Bajpai. Hello There!!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
 I'm Nikhil bajpai and I'm currently preparing for job interviews .i have a strong data structure and algorithms and data base management system knowledge .I've created small scale utilities using python's  library  .
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 [![](https://img.shields.io/badge/LinkedIn-nikhilbajpai-blue)](https://www.linkedin.com/in/nikhil-bajpai//)
 [![](https://img.shields.io/badge/Gmail-nikhil.cse16@gmail.com-red)](mailto:nikhil.cse16@gmail.com)
