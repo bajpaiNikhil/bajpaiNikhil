@@ -1,6 +1,6 @@
 # I'm NIkhil Bajpai. Hello There!!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
 - :telescope: I've done BTech in CSE 💻 and currently preparing for job interviews;
 - :hourglass_flowing_sand: Learning javascript and react;
